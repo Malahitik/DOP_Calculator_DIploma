@@ -20,3 +20,5 @@ The topmost row contains buttons named "Example", "Restart application", "Update
 The Help button contains basic information on how to use the application.
 
 The "Example" button shows how to enter data into the available fields.
+
+At the moment, the application is working correctly at 2k resolution, I'm still optimizing for any resolution.
