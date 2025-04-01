@@ -1,4 +1,5 @@
 ===== Все обновления и доработки =====
+      		Русский
 
 === Версия 1.0 ===
 - Добавлен расчет DOP.
@@ -36,3 +37,52 @@
 - Добавлена возможность просмотра истории обновлений
 - Ввведена функция блокирующая доступ к "Вычислить DOP", без подтверждения введенных данных
 - Добавлена кнопка "Обновления".
+
+=== Версия 2.0 ===
+- Немного улучшен интерфейс
+- Добавлено описание обновлений на английском языке
+
+
+=== All updates and improvements =====
+		English
+
+=== Version 1.0 ===
+- Added DOP calculation.
+- Added interface buttons.
+- Implemented the export of graphs to PNG.
+- Implemented DOP calculation and charting
+- The calculation of the ideal radar location has been implemented
+
+=== Version 1.1 ===
+- Fixed a bug with entering radar coordinates.
+- Improved user interface.
+- Adding an example of input data to the main interface screen
+
+=== Version 1.2 ===
+- Optimized the algorithm for calculating ideal radar positions.
+- Added the ability to export results to CSV.
+- Added "Help" - user manual
+
+=== Version 1.3 ===
+- Added graph creation on the right side of the screen
+- Added a button that allows you to display the outline of the contour graph "Build contour"
+
+=== Version 1.4 ===
+- Added a button that allows you to display the main point on the "Add main point" chart
+- Added dot removal buttons
+- Added graph grid and axes
+
+=== Version 1.5 ===
+- Added the function of deleting a specific radar
+- Added the function of saving a file to the desired directory
+- Added the "Restart Application" feature in case of an unexpected error
+
+=== Version 1.6 ===
+- Fixed the ability to enter data again without closing the radar data entry window (Max will no longer hide nimble bees)
+- Added the ability to view the update history
+- A function has been introduced that blocks access to "Calculate DOP" without confirming the entered data
+- Added the "Updates" button.
+
+=== Version 2.0 ===
+- Slightly improved interface
+- Added a description of updates in English
